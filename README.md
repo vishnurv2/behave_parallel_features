@@ -46,7 +46,7 @@ example:
 ### Run tests
 ##### Running tests
 ```bash
-python behave_parallel.py -p 2    ( '-p 2' flag is used to specific the number of feature files you want to run in parallel)
+python behave_parallel.py -p 2    ( '-p 2' flag is used to specify the number of feature files you want to run in parallel)
 ```
 
 ## About LambdaTest
