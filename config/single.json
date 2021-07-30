@@ -1,0 +1,13 @@
+{
+  "user": "LambdaTest username",
+  "key": "LambdaTest accesskey",
+
+  "capabilities": {
+    "build": "behave-test-lambdatest",
+    "name": "YOUR TEST NAME"
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  }]
+}
